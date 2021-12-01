@@ -1,7 +1,7 @@
 # Library
 This is the REST application for e-Library.
 The Library have a list of users and favorite books collection.
-#### API allowing:
+#### API allows:
 * Select user and put label for him that he likes/dislikes certain book;
 * Select top 10 favourite books (sum all individual user likes);
 * Add new book;
